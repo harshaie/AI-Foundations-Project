@@ -7,7 +7,8 @@
 How did SpaceX's booster landing results change between 2010 and 2018, and do mission type (orbit, payload mass) relate to landing success?
 
 ## Data
-- Source: Kaggle - (add dataset name, link and licence here)
+- - Source: [Dataset name on Kaggle](https://www.kaggle.com/datasets/scoleman/spacex-launch-data) - License: CC BY-SA 3.0
+
 - File used: `Data/spacex_launch_data.csv` - 57 launches, 11 columns, June 2010 to June 2018
 - Also included: `Data/spacex_missions.csv` (not used yet)
 
